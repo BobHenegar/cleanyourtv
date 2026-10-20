@@ -14,7 +14,7 @@ USB speaker or drive plugged into it goes dead until you switch debugging off ag
 ---
 
 I want to debloat my Android TV and replace its launcher with a clean Apple TV style home screen.
-My TV model is: <MODEL NAME HERE>. Work on the real device, step by step, and verify everything you
+My TV model is:TCL 75QM8L. Work on the real device, step by step, and verify everything you
 do with screenshots pulled from the TV. Ask me before anything that depends on my preferences.
 
 Connect
